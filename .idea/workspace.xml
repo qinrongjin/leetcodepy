@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/algorithm/T27.py" description="        i = 0; j = nums.__len__() - 1&#10;        whil..." line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24c718ca-a3fd-4ddb-8795-cfd8252f89cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algorithm/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="24c718ca-a3fd-4ddb-8795-cfd8252f89cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/T06.py">
+        <entry file="file://$PROJECT_DIR$/algorithm/T13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -47,6 +45,7 @@
         <option value="$PROJECT_DIR$/algorithm/T39.py" />
         <option value="$PROJECT_DIR$/algorithm/test.py" />
         <option value="$PROJECT_DIR$/algorithm/T06.py" />
+        <option value="$PROJECT_DIR$/algorithm/T13.py" />
       </list>
     </option>
   </component>
@@ -109,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.T06">
+  <component name="RunManager" selected="Python.T13">
     <configuration name="T06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T35" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="T13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcodepy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/T35.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/T13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.T13" />
         <item itemvalue="Python.T06" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.T39" />
         <item itemvalue="Python.T38" />
-        <item itemvalue="Python.T35" />
       </list>
     </recent_temporary>
   </component>
@@ -309,8 +308,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/T06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/T13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
