@@ -1,7 +1,4 @@
-from typing import List
-
-a = []
-a.append(1)
-a.append(3)
-a.append('222')
-print(a)
+s = 'mkld'
+print(len(s))
+for i in range(0, 5):
+    print(i)
