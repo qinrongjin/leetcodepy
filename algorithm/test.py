@@ -1,3 +1,7 @@
-for i in range(0, 10):
-    print(i)
-print(i)
+from typing import List
+
+a = []
+a.append(1)
+a.append(3)
+a.append('222')
+print(a)
